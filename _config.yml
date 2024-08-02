@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Max Vorobyev"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio_photo.png"
   bio    : "Hello, i'am developer. I prefer studying: Java, C#, Node.js, PHP and JavaScript. Like databases like PostgreSQL and MySQL. And father of two beautiful cats :)"
   links:
     - label: "Website"
